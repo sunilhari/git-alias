@@ -1,4 +1,4 @@
-# git-alias [![Build Status](https://travis-ci.org/sunilhari/git-alias.svg?branch=master)](https://travis-ci.org/sunilhari/git-alias)
+# git-alias [![Build Status](https://travis-ci.org/sunilhari/git-alias.svg?branch=master)](https://travis-ci.org/sunilhari/git-alias) [![Greenkeeper badge](https://badges.greenkeeper.io/sunilhari/git-alias.svg)](https://greenkeeper.io/)
 
 > Helps to set git alias
 
