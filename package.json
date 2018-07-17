@@ -2,9 +2,9 @@
   "name": "git-alias",
   "version": "1.0.0",
   "description": "A small terminal utility to create git aliases",
-  "main": "bin/index.js",
+  "main": "index.js",
   "bin": {
-    "ga": "bin/index.js"
+    "ga": "index.js"
   },
   "engines": {
     "node": ">=8"
@@ -13,7 +13,7 @@
     "test": "xo --fix"
   },
   "files": [
-    "bin/index.js"
+    "index.js"
   ],
   "keywords": [
     "git",
