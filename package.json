@@ -1,5 +1,5 @@
 {
-  "name": "git-alias",
+  "name": "galias",
   "version": "1.0.0",
   "description": "A small terminal utility to create git aliases",
   "main": "index.js",
