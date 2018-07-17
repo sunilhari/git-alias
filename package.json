@@ -1,34 +1,41 @@
 {
-  "name": "galias",
-  "version": "1.0.0",
-  "description": "A small terminal utility to create git aliases",
-  "main": "index.js",
-  "bin": {
-    "ga": "index.js"
-  },
-  "engines": {
-    "node": ">=8"
-  },
-  "scripts": {
-    "test": "xo --fix"
-  },
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "git",
-    "alias",
-    "version",
-    "control"
-  ],
-  "author": "Sunil Hari <isunilhari@gmail.com> (https://sunilhari.netlify.com)",
-  "license": "MIT",
-  "dependencies": {
-    "execa": "^0.10.0",
-    "meow": "^5.0.0"
-  },
-  "devDependencies": {
-    "ava": "^0.25.0",
-    "xo": "^0.21.1"
-  }
+	"name": "galias",
+	"version": "1.0.0",
+	"description": "A small terminal utility to create git aliases",
+	"main": "index.js",
+	"bin": {
+		"ga": "index.js"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo --fix"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"git",
+		"alias",
+		"version",
+		"control"
+	],
+	"author": "Sunil Hari <isunilhari@gmail.com> (https://sunilhari.netlify.com)",
+	"license": "MIT",
+	"dependencies": {
+		"execa": "^0.10.0",
+		"meow": "^5.0.0"
+	},
+	"devDependencies": {
+		"xo": "^0.21.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sunilhari/git-alias.git"
+	},
+	"bugs": {
+		"url": "https://github.com/sunilhari/git-alias/issues"
+	},
+	"homepage": "https://github.com/sunilhari/git-alias/blob/master/README.md"
 }
