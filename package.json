@@ -1,0 +1,34 @@
+{
+  "name": "git-alias",
+  "version": "1.0.0",
+  "description": "A small terminal utility to create git aliases",
+  "main": "bin/index.js",
+  "bin": {
+    "ga": "bin/index.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo --fix"
+  },
+  "files": [
+    "bin/index.js"
+  ],
+  "keywords": [
+    "git",
+    "alias",
+    "version",
+    "control"
+  ],
+  "author": "Sunil Hari <isunilhari@gmail.com> (https://sunilhari.netlify.com)",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^0.10.0",
+    "meow": "^5.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "^0.21.1"
+  }
+}
