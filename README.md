@@ -8,7 +8,7 @@ Simple command line utility to set git alias.
 ## Install
 
 ```
-$ npm install --g git-alias
+$ npm install --g galias
 ```
 ## Usage
 
