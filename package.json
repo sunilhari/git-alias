@@ -10,7 +10,6 @@
 		"node": ">=8"
 	},
 	"scripts": {
-		"test": "xo --fix"
 	},
 	"files": [
 		"index.js"
