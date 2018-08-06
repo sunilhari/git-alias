@@ -27,7 +27,7 @@
 		"meow": "^5.0.0"
 	},
 	"devDependencies": {
-		"xo": "^0.21.1"
+		"xo": "^0.22.0"
 	},
 	"repository": {
 		"type": "git",
