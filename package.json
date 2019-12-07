@@ -24,7 +24,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"execa": "^0.11.0",
-		"meow": "^5.0.0"
+		"meow": "^6.0.0"
 	},
 	"devDependencies": {
 		"xo": "^0.21.1"
